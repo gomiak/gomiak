@@ -10,7 +10,7 @@ I'm currently deepening my understanding of backend and frontend development usi
 
 ## 🧠 Main Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-felipe&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gomiak&layout=compact&theme=tokyonight)
 
 ---
 
