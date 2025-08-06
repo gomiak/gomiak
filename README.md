@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Felipe Kubiak
+# 👋 Hi there!
 
 I'm a developer focused on **C#**, **JavaScript**, and software design with **Clean Architecture**.  
 I'm currently deepening my understanding of backend and frontend development using modern tools and patterns.
@@ -16,5 +16,5 @@ I'm currently deepening my understanding of backend and frontend development usi
 
 ## 📫 Where to find me
 
-- GitHub: [@k-felipe](https://github.com/k-felipe)
+- GitHub: [@gomiak](https://github.com/gomiak)
 - Email: felipegkubiak@gmail.com
